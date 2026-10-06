@@ -1,4 +1,4 @@
-# Zero Requiem · Marine Debris Intelligence
+# Mariscope · Marine Debris Intelligence
 
 Demo / illustrative marine debris monitoring dashboard for the Indian west coast (Goa / Maharashtra region).
 
